@@ -7,7 +7,7 @@ titleTemplate: 找工作防踩雷
 hero:
   name: 公司避雷
   text: 找工作防踩雷
-  tagline: 维权不仅是和资本家斗，最主要的还是打醒内心那个潜伏已久的懦弱的逆来顺受的自己。
+  tagline: 维权劳动权益不仅是和资本家斗，最主要的还是打醒内心那个潜伏已久的懦弱的逆来顺受的自己。
   actions:
     - theme: brand
       text: 福州公司避雷 (闽A)
