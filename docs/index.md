@@ -21,6 +21,9 @@ hero:
     - theme: brand
       text: 厦门公司避雷 (闽D)
       link: /xiameng/blacklist0
+    - theme: alt
+      text: 漳州公司避雷 (闽E)
+      link: /zhangzhou/blacklist1
     - theme: brand
       text: 公司避雷详解
       link: /detail
