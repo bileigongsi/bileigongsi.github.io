@@ -224,8 +224,8 @@ const config = defineConfig({
 			options: {
 				translations: {
 					button: {
-						buttonText: '搜索文档',
-						buttonAriaLabel: '搜索文档',
+						buttonText: '搜索篇章',
+						buttonAriaLabel: '搜索篇章',
 					},
 					modal: {
 						noResultsText: '没有寻找到相关结果',
