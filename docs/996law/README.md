@@ -220,6 +220,6 @@ aside: false
 附录：<br>
 [国家企业信息信用信息系统（工商登记注册基本信息） 下载](https://www.gsxt.gov.cn/index.html)
 
-[劳动法学习实操手册 2023第2版.pdf](https://www.123pan.com/s/diMiVv-7mamh.html)
+[劳动法学习实操手册 2023 第2版.pdf](https://www.kdocs.cn/l/ciTRryeB4vWq)
 
-> 如果有不懂的地方查阅《劳动法学习实操手册》<span style="background:rgba(255, 183, 139, 0.55)">第三章 劳动争议法律程序</span>（划重点）
+> 如果有不懂的地方查阅《劳动法学习实操手册 2023 第2版》<span style="background:rgba(255, 183, 139, 0.55)">第三章 劳动争议法律程序</span>（划重点）
