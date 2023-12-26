@@ -3,6 +3,7 @@
 layout: doc
 editLink: false
 aside: false
+lastUpdated: false
 
 ---
 
@@ -207,16 +208,16 @@ aside: false
 <br>公司营业执照（也叫 “工商登记注册基本信息”）复印件在 [国家企业信息信用信息系统](https://www.gsxt.gov.cn/index.html) 中下载。
 
 ## 附录 1：
-[转跳到 劳动仲裁申请书 示例](example.md)
+转跳到 [劳动仲裁申请书 示例](example.md)
 <br><br>
-[劳动仲裁申请书.docx Word模板下载](https://www.123pan.com/s/diMiVv-ykamh.html)
+劳动仲裁申请书.docx [Word模板下载](https://www.123pan.com/s/diMiVv-ykamh.html)
 <br><br>
-[劳动仲裁强制执行申请书范例.PDF PDF模板下载](https://docs.qq.com/pdf/DT3JwaUNTbGplaGJJ?)
+劳动仲裁强制执行申请书范例.PDF [PDF模板下载](https://docs.qq.com/pdf/DT3JwaUNTbGplaGJJ?)
 <br><br>
-[劳动仲裁强制执行申请书范例.docx Word模板下载](https://docs.qq.com/doc/DT29OTVlmcFlYVVhQ?_bid=1&client=drive_file)
+劳动仲裁强制执行申请书范例.docx [Word模板下载](https://docs.qq.com/doc/DT29OTVlmcFlYVVhQ?_bid=1&client=drive_file)
 
 ## 附录 2：
-国家企业信息信用信息系统（工商登记注册基本信息） 下载地址：[https://www.gsxt.gov.cn/](https://www.gsxt.gov.cn/index.html)
+国家企业信息信用信息系统（工商登记注册基本信息） 下载地址：[https://www.gsxt.gov.cn/](https://www.gsxt.gov.cn)
 
 劳动法学习实操手册 2023 第2版 [PDF电子书下载](https://www.kdocs.cn/l/ciTRryeB4vWq)
 

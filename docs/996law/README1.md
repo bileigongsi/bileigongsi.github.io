@@ -6,6 +6,7 @@ aside: false
 lastUpdated: false
 
 ---
+
 # 劳动仲裁申请书的写法
 
 [[toc]]
@@ -106,8 +107,8 @@ lastUpdated: false
 <br>公司营业执照（也叫 “工商登记注册基本信息”）复印件在 [国家企业信息信用信息系统](https://www.gsxt.gov.cn/index.html) 中下载。
 
 ## 附录：
-[跳转到 劳动仲裁申请书(王三) 示例](example.md) 
+跳转到 [劳动仲裁申请书(王三) 示例](example.md)
 
-[劳动仲裁申请书(王三) 示例 Word 模板下载](https://www.123pan.com/s/diMiVv-ykamh.html)
+劳动仲裁申请书(王三) 示例 [Word 模板下载](https://www.123pan.com/s/diMiVv-ykamh.html)
 
-[劳动法学习实操手册 2023 第2版 PDF电子书下载](https://www.kdocs.cn/l/ciTRryeB4vWq)
+劳动法学习实操手册 2023 第2版 [PDF电子书下载](https://www.kdocs.cn/l/ciTRryeB4vWq)

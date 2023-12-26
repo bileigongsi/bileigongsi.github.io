@@ -166,9 +166,9 @@ const config = defineConfig({
         text: "劳动仲裁和劳动诉讼的攻略",
         collapsed: false,
         items: [
-          { text: "入职公司不签劳动合同怎么办?", link: "/996law/2022-06-15" },
-          { text: "稳稳的双倍工资，但是公司找我签合同咋办？", link: "/996law/2023-02-01" },
-          { text: "劳动仲裁怎么准备证据？", link: "/996law/how-to-prepare-evidence" },
+          { text: "入职公司不签劳动合同怎么办?", link: "/54/2022-06-15" },
+          { text: "稳稳的双倍工资，但是公司找我签合同咋办？", link: "/54/2023-02-01" },
+          { text: "劳动仲裁怎么准备证据？", link: "/54/how-to-prepare-evidence" },
           { text: "劳动仲裁和劳动诉讼的攻略", link: "/996law/README" },
           { text: "劳动仲裁申请书的写法", link: "/996law/README1" },
           { text: "劳动仲裁申请书 下载", link: "/996law/example" },
@@ -200,7 +200,7 @@ const config = defineConfig({
         text: "Personal Notes",
 		collapsed: true,
         items: [
-	  { text: "记错本|错题本 模板", link: "/notes/misremembered" },
+	  { text: "错题本 模板", link: "/notes/misremembered" },
           { text: "计算", link: "/notes/cal" },
           { text: "逻辑推理", link: "/notes/logic" },
         ],

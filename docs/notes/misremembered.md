@@ -6,13 +6,13 @@ lastUpdated: false
 
 ---
 
-# 记错本|错题本 模板 {# misremembered}
+# 错题本模板 {# misremembered}
 
-::: tip 错题本下载模板
-[错题模板.pdf 电子版下载（123网盘）](https://www.123pan.com/s/diMiVv-WIamh.html)
+::: tip 下载地址
+错题模板.pdf [电子版下载（123网盘）](https://www.123pan.com/s/diMiVv-WIamh.html)
 :::
 
-![图片](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s585b9c57853394d0497439a8ba83b3f2d/resources/yn9s5954ac527dff74f5faf5282e687226dc4)
+![图片1](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s585b9c57853394d0497439a8ba83b3f2d/resources/yn9s5954ac527dff74f5faf5282e687226dc4)
 
 ---
 

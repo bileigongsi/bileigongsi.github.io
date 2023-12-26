@@ -6,6 +6,7 @@ aside: false
 lastUpdated: false
 
 ---
+
 # 被迫解除劳动关系通知函  示例
 
 ---
@@ -19,4 +20,4 @@ lastUpdated: false
 
 # 附录
 未签劳动合同标题写：被迫解除劳动**关系**通知函，签过劳动合同写：被迫解除劳动**合同**通知函。<br>
-[被迫解除劳动关系通知函.docx 下载](https://www.123pan.com/s/diMiVv-goamh.html)
+被迫解除劳动关系通知函.docx [Word 模版下载](https://www.123pan.com/s/diMiVv-goamh.html)
