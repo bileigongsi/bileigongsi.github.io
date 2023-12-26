@@ -96,8 +96,6 @@ lastUpdated: false
 ### （二）受理或不予受理
 &emsp;&emsp;仲裁委自接到申请书之日起五日（工作日）内将作出受理或不予受理的决定，并告知申请人。决定不予受理的，仲裁委向申请人送达《不予受理通知书》。
 
----
-
 ## 快速了解
 
 [申请劳动仲裁 需要提交哪些材料？](https://player.bilibili.com/player.html?aid=700531719&bvid=BV1bm4y1J7Xz&cid=1187108199&p=1)
@@ -105,9 +103,9 @@ lastUpdated: false
 
 <br>公司营业执照（也叫 “工商登记注册基本信息”）复印件在 [国家企业信息信用信息系统](https://www.gsxt.gov.cn/index.html) 中下载。
 
----
-
 ## 附录：
-[劳动仲裁申请书(王三) 示例](example.md)    [从123网盘下载](https://www.123pan.com/s/diMiVv-ykamh.html)
+[跳转到 劳动仲裁申请书(王三) 示例](example.md) 
 
-[劳动法学习实操手册 2023 第2版.pdf](https://www.123pan.com/s/diMiVv-7mamh.html)
+[劳动仲裁申请书(王三) 示例 Word 模板下载](https://www.123pan.com/s/diMiVv-ykamh.html)
+
+[劳动法学习实操手册 2023 第2版 PDF电子书下载](https://www.kdocs.cn/l/ciTRryeB4vWq)
