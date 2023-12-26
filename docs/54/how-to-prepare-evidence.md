@@ -13,7 +13,7 @@ lastUpdated: false
 
 > [原创  五年四班劳动委员  五年四班劳动委员 2023-05-23 18:30 发表于江苏](https://mp.weixin.qq.com/s/33m3MEJxrLXp3fwmynavjQ)
 
-## 上篇
+<center><font size=8>上篇</font></center>
 
 ## 01 举证责任是什么意思？
 举证责任又称证明责任，是指当事人对自己提出的主张有**提供证据进行证明的责任**。
@@ -74,7 +74,7 @@ lastUpdated: false
 其实在笔者工作的仲裁委，一般只会向被告送达应诉通知、立案申请书副本，**并不会给公司送达证据**。也没有法律规定必须将原告/申请人的证据副本送达公司。我一般都**可以在开庭时提交证据**。我们拿到受理通知书/开庭通知书，上面一般都会给我们列出**10 天的提交证据的时间**。按照法律规定，我们需要在举证期提交证据。但是实践中，不论是仲裁还是法院都是在庭审时提交证据居多。**其实，我们事前提交的证据，仲裁员也不会看，他们没有时间看，都是开庭的时** **候看的**，所以我们开庭时提交证据一般不会耽误仲裁员工作，开庭交证据也不会招致仲裁员反感。<br>
 最后，劳动者如果在劳动仲裁证据准备以及其他地方仍有疑问，欢迎进入五年四班劳动委员公众号，点击左下角联系号进入咨询群，群里有志愿者耐心解答。
 
-## 下篇
+<center><font size=8>下篇</font></center>
 
 > [原创  沈书秋  五年四班劳动委员 2023-05-24 18:30_  发表于江苏 ](https://mp.weixin.qq.com/s/3kcNM1nn78mcOU3psXanZw)
 
@@ -125,12 +125,12 @@ lastUpdated: false
 ### 1、查询企业信息
 首先使用搜索引擎搜索“信用中国”，或在浏览器地址栏内输入“[https://www.creditchina.gov.cn/](https://www.creditchina.gov.cn)” ，打开信用中国网站。在网站顶部搜索栏内输入你想要查询的企业名称，点击“查询”。
 
-![图片](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s5f89b9748f87a46959c3d2c74fb7b0a9a/resources/yn9s5ad03370fd81f4cc2a082c3364b8087ac)
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s5f89b9748f87a46959c3d2c74fb7b0a9a/resources/yn9s5ad03370fd81f4cc2a082c3364b8087ac" width = 40%/> </div>
 
 查询企业信息<br>
 找到我们想要查询的企业后，点击进入，之后点击页面中的“下载信用信息报告”，等待下载完成。
 
-![图片](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s5f89b9748f87a46959c3d2c74fb7b0a9a/resources/yn9s5cbf15325982742679344dacc4ae8a8f1)
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s5f89b9748f87a46959c3d2c74fb7b0a9a/resources/yn9s5cbf15325982742679344dacc4ae8a8f1" width = 40%/> </div>
 
 下载信用信息报告
 
