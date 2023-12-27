@@ -1,4 +1,4 @@
-![e1f9637d04df9b6d79343112f0f9a56](https://github.com/bileigongsi/bileigongsi.github.io/assets/145189144/6843bb3e-2b5f-4e85-9903-dfacb851517c)---
+---
 
 layout: doc
 editLink: false
