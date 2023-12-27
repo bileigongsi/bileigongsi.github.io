@@ -79,7 +79,7 @@ lastUpdated: false
 
 <font color="#245bdb">民事答辩</font><br>状在我们<font color="#245bdb">仲裁胜诉，公司不服，把我们起诉了</font>的情况，我们需要写一份民事答辩状。这个答辩状不是很重要，关键还是看我们庭审中表述的事实和理由。所以有很简单的写法。
 
-![](https://pic2.zhimg.com/80/v2-c15e5b3441f1fccb100b3cbc53bb53d1_1440w.webp)
+<div align=center> <img src="https://pic2.zhimg.com/80/v2-c15e5b3441f1fccb100b3cbc53bb53d1_1440w.webp" width = 90%/> </div>
 
 <center>图3.1: 民事答辩状样例</center>
 
@@ -94,7 +94,7 @@ lastUpdated: false
 ### 4 、管辖法院
 管辖法院比较重要，因为会出现抢管辖的情况。法律规定，<font color="#245bdb">用人单位所在地或者劳动合同履行地的基层人民法院管辖，先受理的优先。</font>这就会导致先下手为强，比如公司注册地在北京，劳动合同实际履行地在重庆，很有可能出现我们在重庆仲裁胜诉后，公司跑到北京起诉的情况，这将会导致我们不得不前往北京应诉。<br><br>所以，如果我们拿到<font color="#245bdb">非一裁终审的裁决书且单位营业范围很广</font>时，<font color="#245bdb">先想好要不要起诉，如果要起诉就赶紧起诉。</font><br><br>如果不想起诉，单位可能要起诉，这个时候就比较麻烦。因为我们如果主动开启诉讼程序，单位就可以接着和我打官司，这个时候我们就不能等仲裁裁决到期生效了。但是我们不去主动起诉，就是在赌单位不会跑到很远的地方起诉，但赌输了，单位真的跑到外地起诉了，我们就很吃亏。我们去不了开庭，就会导致缺席审判，而且很可能该地的法律规定对单位有利。<font color="#245bdb">所以，如果能确定单位要起诉或不敢赌他不起诉的话，还是尽快提起诉讼。</font><br><br><font color="#245bdb">如果两边都抢管辖，同一天立案，由劳动合同履行地的基层人民法院管辖。</font>
 
-![](https://pic2.zhimg.com/80/v2-61b1b29337e94027e5d1bb4b25aea349_1440w.webp)
+<div align=center> <img src="https://pic2.zhimg.com/80/v2-61b1b29337e94027e5d1bb4b25aea349_1440w.webp" width = 95%/> </div>
 
 <center>图3.2: 上诉状样例</center>
 
@@ -124,7 +124,7 @@ lastUpdated: false
 
 对应的东西分别是：<br>我是谁：<br>需要准备证明自己身份的材料，<font color="#245bdb">身份证复印件即可</font>。<br>要告谁：<br>需要准备证明企业身份的材料，也就是企业的相关信息。<br>这个可以在“信用中国”或“国家企业信用信息公示系统”查询，网站为：<br> https://www.creditchina.gov.cn （信用中国）<br> https://www.gsxt.gov.cn（国家企业信息公示系统）<br>查询之后打印出来就可以，如下图所示。
 
-![](https://pic2.zhimg.com/80/v2-9abc48060c2ed7c72af3b9b52395d759_1440w.webp)
+<div align=center> <img src="https://pic2.zhimg.com/80/v2-9abc48060c2ed7c72af3b9b52395d759_1440w.webp" width = 95%/> </div>
 
 <center>图3.3: 企业信息查询查询</center>
 
@@ -140,7 +140,7 @@ lastUpdated: false
 <font color="#245bdb">写申请人、被申请人信息怎么填？</font><br><font color="#245bdb">各地申请书不完全一样，但也是大同小异。</font><br>左边一栏是劳动者信息，这个按照实际填。右边一栏为企业信息，这个按照上文你查的的企业信息填。<br>填企业信息的时候注意：单位名称：如果公司是大风电子厂，在“单位名称”这一栏千万不要写“大风电子厂”，<font color="#245bdb">而是要写上在“国家企业信用信息公示系统”中查询到的公司名称</font>，比如“大风电子制造有限责任公司”。<br>公司电话：法人、负责人的电话我们可能不知道，<font color="#245bdb">可以提供办公座机号，能打通就行</font>。法人可能不是直接管事的人，<font color="#245bdb">所以有一个栏会是“劳资负责人”、“主要负责人”或“联系人”，这里就填管你的那个经理、人事或老板</font>。<br><br><font color="#245bdb">诉求/请求事项怎么填</font><br>前面我们提到了我们的诉求要按照法律规定来，需要有“<font color="#245bdb">法律规定的名称+对应数额</font>”。这个也是我们写诉求时需要注意的。<br><br>我们起诉公司，劳动者就是申请人，公司人是被申请。公司起诉我们，公司是申请人，我们是被申请人。<br><br>公司起诉我们的情况很少，本节不做说明。以下是诉讼请求的填写样例：
 - 劳动关系：请求依法确认申请人与被申请人在xx期间存在劳动关系
 
-![](https://pic3.zhimg.com/80/v2-fbb8d2980bde393f441466acd017a51a_1440w.webp)
+<div align=center> <img src="https://pic3.zhimg.com/80/v2-fbb8d2980bde393f441466acd017a51a_1440w.webp" width = 95%/> </div>
 
 <center>图3.4: 来源：北京朝阳区人民政府官网</center>
 
@@ -171,7 +171,7 @@ lastUpdated: false
 - 公司欠我们的报销款，或老板借我们的钱。一般不予受理，属于民事债权债务，直接到法院起诉职工住房纠纷，这个一定想办法要到<font color="#245bdb">《不予受理通知书》</font>，不然就去不了法院，也就没有合法渠道解决争议了
 - 退休之后就不属于劳动关系了，属于民事关系，要去法院起诉。一般男性的退休年龄是60 岁，女性是 50 岁。
 
-![](https://pic3.zhimg.com/80/v2-0a73dc11f5d7149fa67d48677e8cf27a_1440w.webp)
+<div align=center> <img src="https://pic3.zhimg.com/80/v2-0a73dc11f5d7149fa67d48677e8cf27a_1440w.webp" width = 95%/> </div>
 
 <center>图3.5: 不予受理通知书</center>
 
@@ -188,7 +188,7 @@ lastUpdated: false
 ### 2 、证据清单怎么填
 立案时仲裁委会提供我们一份证据清单，全国各地证据单大同小异，这个不需要纠结。想要当地的证据清单，可以去所在地<font color="#245bdb">人力资源与社会保障局官网</font>下载。也可以在人社局公众号上获得。<br><br>我们可以在立案的地方现场填写，也可以准备好一个带过去。
 
-![](https://pic2.zhimg.com/80/v2-5c7f7594008ecb4c7106fb143c894c69_1440w.webp)
+<div align=center> <img src="https://pic2.zhimg.com/80/v2-5c7f7594008ecb4c7106fb143c894c69_1440w.webp" width = 95%/> </div>
 
 <center>图3.6: 杭州市仲裁委的证据清单</center>
 
@@ -293,7 +293,7 @@ lastUpdated: false
 
 <font color="#245bdb">仲裁裁决书生效证明</font><br>这些材料中，比较麻烦的是仲裁裁决书生效证明。<br><br>其原因在于人社系统下的劳动仲裁与法院分属不同机关，法院不能直接调取劳动仲裁案件的送达与生效情况，需要我们再跑一趟仲裁委拿仲裁裁决书生效证明。
 
-![](https://pic1.zhimg.com/80/v2-54f7f1a3b27943f61f7fd1f9d17758ec_1440w.webp)
+<div align=center> <img src="https://pic1.zhimg.com/80/v2-54f7f1a3b27943f61f7fd1f9d17758ec_1440w.webp" width = 95%/> </div>
 
 <center>图3.7: 强制执行申请书样例</center>
 
@@ -320,7 +320,7 @@ lastUpdated: false
 ### 4 、执行困难的情形
 我们申请执行后有可能遇到种种情形导致执行困难，有因为被执行人的因素，比如被执行人以各种手段逃避、规避执行甚至抗拒执行，例如滥用有限责任制等；还有因为一些相对客观的因素，比如在经济下行压力下，法院组织拍卖、变卖，但财产无人竞买无法变现等。这些情况绝大多数情况表现为，执行法院通知我们被执行人名下已经无可执行财产。<br><br>收到该通知也不要慌乱，我们可以针对具体情况采取相应措施。<br><br><font color="#245bdb">公司破产</font><br>公司大一点，欠的各种债多一点，有可能会走破产程序。破产通常来说要很花时间的，如果公司真的破产了，我们只能慢慢等了。不过好处是，员工债权的优先级很高，公司破产清算后要挨个还钱，我们员工债权在第二顺位，偿还率还算可以。我们可以通过企查查、国家企业信息网查询公司状态，如果公司进入破产程序会在自己信息上变更状态。<br>如果我们的裁决/判决已经生效，需要看一下公司破产的公告，找到清算人，申报我们的债权。然后等破产程序结束。<br><br>如果我们还在仲裁阶段，仲裁委很可能退回我们的案子，此时我们需要去法院起诉。破产清算人作为被告参与诉讼。<br><br>如果我们还在诉讼中，被告也会变更为破产清算人。
 
-![](https://pic4.zhimg.com/80/v2-f4d3baa0a6cc68cad92e5977308fe733_1440w.webp)
+<div align=center> <img src="https://pic4.zhimg.com/80/v2-f4d3baa0a6cc68cad92e5977308fe733_1440w.webp" width = 95%/> </div>
 
 <center>图3.8: 执行终结通知</center>
 
@@ -332,7 +332,7 @@ lastUpdated: false
 <br>
 <font color="#245bdb">公司无财产+股东未足额出资、未出资</font><br>作为被执行人的营利法人，财产不足以清偿生效法律文书确定的债务，申请执行人可以申请变更、追加未缴纳或未足额缴纳出资的股东、出资人或依公司法规定对该出资承担连带责任的发起人为被执行人，在尚未缴纳出资的范围内依法承担责任。<br><br>简单说，如果公司认缴50w，实缴20w，就说明公司股东没有实缴出资，我们可以要求追加股东作为被执行人。<br><br>在企业的工商信息中可以查看股东是否已全额出资。<br><br><font color="#245bdb">公司无财产+股东变更、股权转让</font>
 
-![](https://pic1.zhimg.com/80/v2-65b10ae7abac9318bb09c4464506e9ac_1440w.webp)
+<div align=center> <img src="https://pic1.zhimg.com/80/v2-65b10ae7abac9318bb09c4464506e9ac_1440w.webp" width = 95%/> </div>
 
 <center>图3.9: 查看有没有实缴</center>
 
@@ -565,7 +565,7 @@ lastUpdated: false
 ### 3 、拿到终局裁决书后怎么办
 拿到裁决书后，我们往往可以在裁决书最后看到一段话“本裁决系终局裁决......”
 
-![](https://pic2.zhimg.com/80/v2-739d23b3616b6ca3b5b43cf5d844dc25_1440w.webp)
+<div align=center> <img src="https://pic2.zhimg.com/80/v2-739d23b3616b6ca3b5b43cf5d844dc25_1440w.webp" width = 95%/> </div>
 
 <center>图3.10: 终局裁决</center>
 
@@ -596,13 +596,13 @@ lastUpdated: false
 ### 1 、查询企业信息
 首先使用搜索引擎搜索“信用中国”，或在浏览器地址栏内输入“ https://www.creditchina.gov.cn ”，打开信用中国网站。在网站顶部搜索栏内输入你想要查询的企业名称，点击“查询”。
 
-![](https://pic3.zhimg.com/80/v2-ba8c1c11ea074eb2070e6e6b35497ed6_1440w.webp)
+<div align=center> <img src="https://pic3.zhimg.com/80/v2-ba8c1c11ea074eb2070e6e6b35497ed6_1440w.webp" width = 95%/> </div>
 
 <center>图3.11: 查询企业信息</center>
 
 找到我们想要查询的企业后，点击进入，之后点击页面中的“下载信用信息报告”，等待下载完成。
 
-![](https://pic4.zhimg.com/80/v2-7aea458fa919e8d815eeed6583519d0f_1440w.webp)
+<div align=center> <img src="https://pic4.zhimg.com/80/v2-7aea458fa919e8d815eeed6583519d0f_1440w.webp" width = 95%/> </div>
 
 <center>图3.12: 下载信用信息报告</center>
 
@@ -612,7 +612,7 @@ lastUpdated: false
 ## 3.2.13 几个提诉讼请求，搜集证据的小技巧，帮你大大提高胜率！
 本文告诉大家几个仲裁小技巧让你的仲裁更顺利。这些技巧的普适性还是挺高的，总有几条适合你。
 
-![](https://pic2.zhimg.com/80/v2-49b9fa9b77a08181fe7e30c62f4a2df5_1440w.webp)
+<div align=center> <img src="https://pic2.zhimg.com/80/v2-49b9fa9b77a08181fe7e30c62f4a2df5_1440w.webp" width = 95%/> </div>
 
 <center>图3.13: 打印信用报告</center>
 

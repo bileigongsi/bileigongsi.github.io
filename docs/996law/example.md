@@ -37,7 +37,6 @@ lastUpdated: false
 <p align="right">申请人：&emsp;&emsp;&emsp;&emsp;</p>
 <p align="right">年&emsp;&emsp;月&emsp;&emsp;日</p>
 
-
 ---
 
 劳动仲裁申请书.docx [Word 模版下载](https://www.123pan.com/s/diMiVv-ykamh.html)

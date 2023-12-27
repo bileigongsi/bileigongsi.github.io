@@ -11,7 +11,7 @@ lastUpdated: false
 
 [[toc]]
 
-[阅读原文](http://www.moj.gov.cn/pub/sfbgw/jgsz/jgszzsdw/zsdwflyzzx/flyzzxgzpt/gzptwlpx/202007/t20200702_190436.html)
+> [跳转至原文](http://www.moj.gov.cn/pub/sfbgw/jgsz/jgszzsdw/zsdwflyzzx/flyzzxgzpt/gzptwlpx/202007/t20200702_190436.html)
 
 &emsp;&emsp;每当岁末年初，都是农民工维权问题多发的时间，为了帮助农民工朋友在春节前夕能够拿到工资，开开心心回家过年，北京市法律援助中心联合中心志愿律师团队成员北京达略律师事务所，手把手教您如何撰写劳动争议类案件相关法律文书。
 
@@ -32,7 +32,7 @@ lastUpdated: false
 
 #### 申请劳动争议仲裁立案应当携带的材料：
 
-::: tip 申请劳动争议仲裁立案应当携带的材料 - 1：
+::: tip 申请劳动争议仲裁立案应当携带的材料：
 <font color="#245bdb">1、申请书。</font>申请书一式四份，仲裁委留存三份，申请人留存一份。申请书用钢笔或者签字笔书写或复印，均需申请人本人签名并写上日期。
 :::
 
@@ -77,7 +77,7 @@ lastUpdated: false
 
 ---
 
-::: tip 申请劳动争议仲裁立案应当携带的材料 - 2：
+::: tip ……
 <font color="#245bdb">2、身份证明。</font>携带申请人有效（注：在有效期内）身份证原件并提交复印件一份。<br><br>
 <font color="#245bdb">3、劳动关系证明。</font>如劳动合同书、解除或终止劳动合同通知书、银行流水（注：有公司或法定代表人发放工资记录）、社会保险缴费证明、工作证或有公司盖章的文件等材料。<br><br>
 <font color="#245bdb">4、被申请人（公司）身份证明。</font>如果被申请人是用人单位的，应当提供其工商注册登记相关情况的证明。如公司营业执照或在“ [国家企业信用信息公示系统](https://www.gsxt.gov.cn/index.html) ”上查询打印公司工商登记注册基本信息。<br><br>
@@ -85,13 +85,13 @@ lastUpdated: false
 <font color="#245bdb">6、证据材料：</font>  <br>（1）申请人向劳动仲裁委提交证据，应当提交与原件核对无异的复印件，并根据被申请人数量提交副本。申请人提交视听资料作为证据的，应当提交光盘和完整的书面记录材料。<br>（2）申请人应当对其提交的证据逐一分类编号，填写《证据材料清单》，并对证据的来源及所
 :::
 
-证明的内容作简要说明。证据的复印件经仲裁委核对后，由仲裁委收存。复印件一律使用A4型纸复印。仲裁委收到申请人提交的证据材料，应当注明收件人和签收日期。
+&emsp;&emsp;证明的内容作简要说明。证据的复印件经仲裁委核对后，由仲裁委收存。复印件一律使用A4型纸复印。仲裁委收到申请人提交的证据材料，应当注明收件人和签收日期。
 
 ---
 
 <center><font color="#245bdb">证据材料清单（样本）</font></center>
 
-![2.png](http://www.moj.gov.cn/pub/sfbgw/jgsz/jgszzsdw/zsdwflyzzx/flyzzxgzpt/gzptwlpx/202007/W020210225403908088237.png)
+<div align=center> <img src="http://www.moj.gov.cn/pub/sfbgw/jgsz/jgszzsdw/zsdwflyzzx/flyzzxgzpt/gzptwlpx/202007/W020210225403908088237.png" width = 90%/> </div>
  <sub>（ 证据材料清单申请仲裁时候，仲裁委那里会提供，不同地区的证据清单会不大一样，根据真实情况填写 ）</sub>
 
 ---
