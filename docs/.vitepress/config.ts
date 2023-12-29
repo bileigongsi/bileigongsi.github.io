@@ -142,6 +142,16 @@ const config = defineConfig({
         ],
       },
       
+      //漳州公司黑榜
+      {
+        text: "漳州公司黑榜",
+        collapsed: true,
+        items: [
+          { text: "漳州公司黑榜-1", link: "/zhangzhou/blacklist1" },
+          { text: "漳州公司黑榜-2", link: "/zhangzhou/blacklist1" },
+        ],
+      },
+      
       //避雷公司详解
       {
         text: "公司避雷详解",
@@ -163,7 +173,7 @@ const config = defineConfig({
       
       //劳动仲裁和劳动诉讼的攻略
       {
-        text: "劳动仲裁和劳动诉讼的攻略",
+        text: "劳动仲裁和劳动诉讼攻略",
         collapsed: false,
         items: [
           { text: "入职公司不签劳动合同怎么办?", link: "/54/2022-06-15" },
@@ -180,7 +190,7 @@ const config = defineConfig({
       
       //劳动人事
       {
-        text: "劳动人事",
+        text: "劳动人事 (案例)",
         collapsed: false,
         items: [
           { text: "1、处理加班费争议，如何分配举证责任", link: "/laodong/index1" },
@@ -197,7 +207,7 @@ const config = defineConfig({
       
       //other
       {
-        text: "Personal Notes",
+        text: "个人笔记",
 		collapsed: true,
         items: [
 	  { text: "错题本 模板", link: "/notes/misremembered" },

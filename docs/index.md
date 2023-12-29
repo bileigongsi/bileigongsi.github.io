@@ -25,16 +25,16 @@ hero:
       text: 漳州公司避雷 (闽E)
       link: /zhangzhou/blacklist1
     - theme: brand
-      text: 公司避雷详解
+      text: 公司避雷详解 (问答)
       link: /detail
     - theme: brand
       text: 劳动法学习实操手册 (必看)
       link: /manual/manual3
     - theme: brand
-      text: 劳动仲裁和劳动诉讼的攻略
+      text: 劳动仲裁和劳动诉讼攻略
       link: /996law/README
     - theme: brand
-      text: 劳动人事
+      text: 劳动人事 (案例)
       link: /laodong/index1
     - theme: alt
       text: 个人笔记
