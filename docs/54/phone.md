@@ -41,7 +41,7 @@ lastUpdated: false
 |---|---|
 |市劳动人事争议仲裁委员会各地联系地址和电话|暂未开始查找|
 
-## 泉州厦门劳动人事争议仲裁委员会 <Badge type="tip">闽D</Badge>
+## 厦门劳动人事争议仲裁委员会 <Badge type="tip">闽D</Badge>
 
 |提问 <img width=400/> |互助答复 <img width=500/> |
 |---|---|
