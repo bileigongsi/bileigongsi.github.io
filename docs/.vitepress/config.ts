@@ -155,7 +155,7 @@ const config = defineConfig({
       //避雷公司详解
       {
         text: "公司避雷详解",
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: "公司避雷详解", link: "/detail" },
         ],
@@ -208,7 +208,7 @@ const config = defineConfig({
       
       //other
       {
-        text: "文书下载",
+        text: "仲裁文书模版",
 		collapsed: true,
         items: [
           { text: "劳动仲裁申请书", link: "/document/zcsqs" },

@@ -12,7 +12,7 @@ lastUpdated: false
 [[toc]]
 
 ::: tip 以下内容摘录自 https://github.com/CPdogson/996.law
-&emsp;&emsp;劳动仲裁和劳动诉讼是劳动者维护自身权益的最后救济手段，发起之后代表着你将很难继续在原来的公司工作，故不鸣则已，一鸣惊人。本攻略面向所有劳动者，但本版块不希望任何一个劳动者失去工作，用打扑克做比喻的话，请把它当作王炸。 除此之外，本章将重点介绍取证这一块，希望大家平时工作中就 **留意取证** 。如果你想在不丢失工作的情况下做一些法律行动，[996action](https://github.com/CPdogson/996action) 欢迎你。为降低门槛，欢迎邮件至 CPdogson@protonmail.com
+&emsp;&emsp;劳动仲裁和劳动诉讼是劳动者维护自身权益的最后救济手段，发起之后代表着你将很难继续在原来的公司工作，故不鸣则已，一鸣惊人。本攻略面向所有劳动者，但本版块不希望任何一个劳动者失去工作，用打扑克做比喻的话，请把它当作王炸。 除此之外，本章将重点介绍取证这一块，希望大家平时工作中就 **留意取证** 。如果你想在不丢失工作的情况下做一些法律行动，[996action](https://github.com/CPdogson/996action) 欢迎你。为降低门槛，欢迎邮件📮至 CPdogson@protonmail.com
 :::
 
 ## 一、如何通过司法途径要求公司支付加班费？
@@ -211,9 +211,9 @@ lastUpdated: false
 <br><br>
 劳动仲裁申请书.docx [Word模板下载](https://www.123pan.com/s/diMiVv-ykamh.html)
 <br><br>
-劳动仲裁强制执行申请书范例.PDF [PDF模板下载](https://docs.qq.com/pdf/DT3JwaUNTbGplaGJJ?)
+劳动仲裁强制执行申请书范例.PDF [PDF模板下载](https://www.123pan.com/s/diMiVv-AXamh.html)
 <br><br>
-劳动仲裁强制执行申请书范例.docx [Word模板下载](https://docs.qq.com/doc/DT29OTVlmcFlYVVhQ?_bid=1&client=drive_file)
+劳动仲裁强制执行申请书范例.docx [Word模板下载](https://www.123pan.com/s/diMiVv-9Xamh.html)
 
 ## 附录 2：
 国家企业信息信用信息系统（工商登记注册基本信息） 下载地址：[https://www.gsxt.gov.cn/](https://www.gsxt.gov.cn)
