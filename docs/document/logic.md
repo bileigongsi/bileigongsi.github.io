@@ -175,9 +175,13 @@ D > C  →  F最高   H最高<br><br>
 **只有一真 / 只有一假**: 确定真假个数，找(矛盾/反对)关系，看其余。<br>**两真两假**: 先找矛盾关系，必有一真一假；则其他两个命题也是一真一假，对这两个命题假设。(没刷到 两真两假 题型)
 :::
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s574c80aba0025402f9cf7c47eb1fdea63" width = 90%/> </div>
+<br>例题：<br>
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5a04b24dfcd4842e2a87252f411b59c77" width = 90%/> </div>
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s574c80aba0025402f9cf7c47eb1fdea63" width = 90%/> </div>
+
+<br>例题：<br>
+
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5a04b24dfcd4842e2a87252f411b59c77" width = 90%/> </div>
 
 > “并非”一出现，后面全部否。具体如下：<br>“且” “或”互换<br>
 
@@ -203,7 +207,9 @@ D > C  →  F最高   H最高<br><br>
 
 ---
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5ab6c521835c348cc989cf3970869c4a1)
+<br>例题：<br>
+
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5ab6c521835c348cc989cf3970869c4a1" width = 90%/> </div>
 
 ---
 
