@@ -41,7 +41,9 @@ tags:
 至多有一个≤1 <br>至少有一个≥1
 :::
 
-例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s56dbe28794a184997ad2d0ead721eec85)
+例题：<br>
+
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s56dbe28794a184997ad2d0ead721eec85" width = 90%/> </div>
 
 > 提问方式为：可以推出/不能推出
 
@@ -59,7 +61,9 @@ tags:
 除非A，否则B。 − B → A (Tips: 没有“不”字要加个不)
 :::
 
-例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s548a507a239d24561825914e361e81295)
+例题：<br>
+
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s548a507a239d24561825914e361e81295" width = 90%/> </div>
 
 ---
 
@@ -135,15 +139,23 @@ D > C  →  F最高   H最高<br><br>
 - C.如果李四能打入决赛，则丁的推测成立
 - D.<span style="background:#fff88f">如果李四能打入决赛，则甲的推测成立</span>
 
-<br><br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5627e4eb494a7492fb0e8aa1d828818aa)
+<br><br>例题：<br>
+
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5627e4eb494a7492fb0e8aa1d828818aa" width = 90%/> </div>
 
 不能说如果丁被录取则丙被录取：− (丁  →  丙) 变成 丁 且 − 丙
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5348615da56f54699a8a81265322f6dfb)
+<br>例题：<br>
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5c33e98f13f964f5fa8de101e996720bb)
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5348615da56f54699a8a81265322f6dfb" width = 90%/> </div>
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5c8f8fb5478ed4198bafe31d9a625c9e8)
+<br>例题：<br>
+
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5c33e98f13f964f5fa8de101e996720bb" width = 90%/> </div>
+
+<br>例题：<br>
+
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5c8f8fb5478ed4198bafe31d9a625c9e8" width = 90%/> </div>
 
 ---
  
@@ -163,21 +175,31 @@ D > C  →  F最高   H最高<br><br>
 **只有一真 / 只有一假**: 确定真假个数，找(矛盾/反对)关系，看其余。<br>**两真两假**: 先找矛盾关系，必有一真一假；则其他两个命题也是一真一假，对这两个命题假设。(没刷到 两真两假 题型)
 :::
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s574c80aba0025402f9cf7c47eb1fdea63)
+<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s574c80aba0025402f9cf7c47eb1fdea63" width = 90%/> </div>
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5a04b24dfcd4842e2a87252f411b59c77)
+<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5a04b24dfcd4842e2a87252f411b59c77" width = 90%/> </div>
 
 > “并非”一出现，后面全部否。具体如下：<br>“且” “或”互换<br>
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s52694348f1cdd432c833673e512a1db67)
+<br>例题：<br>
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5f8dbcd39a492435aab50740b98f5f7ed)
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s52694348f1cdd432c833673e512a1db67" width = 90%/> </div>
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s53871d3a3f16a4edcb4fe8a9a89edcc66)
+<br>例题：<br>
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s592746dad1f2e4bef90866de1f4d6dba7)
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5f8dbcd39a492435aab50740b98f5f7ed" width = 90%/> </div>
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5b7b7f334ae5443dbb47b0463e74acc47)
+<br>例题：<br>
+
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s53871d3a3f16a4edcb4fe8a9a89edcc66" width = 90%/> </div>
+
+<br>例题：<br>
+
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s592746dad1f2e4bef90866de1f4d6dba7" width = 90%/> </div>
+
+<br>例题：<br>
+
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5b7b7f334ae5443dbb47b0463e74acc47" width = 90%/> </div>
 
 ---
 
@@ -192,31 +214,47 @@ D > C  →  F最高   H最高<br><br>
 <br>不能同假，必有一真<sup>(也可全真)</sup>：反对关系:有的A是B  与  有的A不是B<sup>(找“有的是”, “有的不是”, 其余全假)</sup>
 :::
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s508cc8f8bd70443599b0421d2d9d6674d)
+<br>例题：<br>
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s56a4261f366c844c39394d4ebdfcce0c3)
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s508cc8f8bd70443599b0421d2d9d6674d" width = 90%/> </div>
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s572ea463585264587810fbf89b4064419)
+<br>例题：<br>
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5028addacafe84e77996f1bcbb5f1d800)
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s56a4261f366c844c39394d4ebdfcce0c3" width = 90%/> </div>
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s554558200c6964e399d06819740c4ba25)
+<br>例题：<br>
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s53195e68a8a094bde896d7875b763f9c5)
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s572ea463585264587810fbf89b4064419" width = 90%/> </div>
+
+<br>例题：<br>
+
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5028addacafe84e77996f1bcbb5f1d800" width = 90%/> </div>
+
+<br>例题：<br>
+
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s554558200c6964e399d06819740c4ba25" width = 90%/> </div>
+
+<br>例题：<br>
+
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s53195e68a8a094bde896d7875b763f9c5" width = 90%/> </div>
 
 ---
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s53022b13bc4214a42bcde44066f062e62)
+<br>例题：<br> <div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s53022b13bc4214a42bcde44066f062e62" width = 90%/> </div>
 
 ---
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s57b8604da36314c13aa1290e5d0a11fe3)
+<br>例题：<br>
+
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s57b8604da36314c13aa1290e5d0a11fe3" width = 90%/> </div>
 
 <br>B. 选项说的是“下周”，题干说的是“上周”，话题不一致<br>
 C. 休一天上一天，整体上就是没有休假<br>
 D. 轮值顺序调整，只是位置调整，不影响是否做轮值经理<br><br>
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5ce43b46838c94bf6ae722fde45593ec4)
+<br>例题：<br>
+
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s5ce43b46838c94bf6ae722fde45593ec4" width = 90%/> </div>
 
 <br>方式：健康中国行动<br>
 目的：为缩短预期寿命与健康预期寿命的差距(存在差距)而努力<br>
@@ -224,7 +262,9 @@ A阐述最后一段话(不选)  D重复目的那段话(不选)
 
 ---
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s578849d4ec0f241ccbc32f01edb601cf2)
+<br>例题：<br>
+
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s578849d4ec0f241ccbc32f01edb601cf2" width = 90%/> </div>
 
 ---
 
@@ -232,4 +272,6 @@ A阐述最后一段话(不选)  D重复目的那段话(不选)
 涉及“包容关系”算极值
 :::
 
-<br>例题：<br> ![](https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s578a65b5ca0134e6fbdd01831fc585ab4)
+<br>例题：<br>
+
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s53fb86291d68f4d73ba9824e12a2949d5/resources/yn9s578a65b5ca0134e6fbdd01831fc585ab4" width = 90%/> </div>

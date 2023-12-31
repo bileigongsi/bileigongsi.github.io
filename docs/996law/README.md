@@ -139,7 +139,9 @@ lastUpdated: false
 ## （一）先仲裁、后诉讼
 ## （二）仲裁程序
 
-<div align=center> <img src="https://pic3.zhimg.com/80/v2-380a1a47c5f334c4d99fd6fbd40d06e6_1440w.webp" width = 95%/> </div>
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s5efb06b3f0c1c4a8faba192451478c318/resources/yn9s518cfd28f29fe4dd493146188e3aeecc3" width = 95%/> </div>
+
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s5efb06b3f0c1c4a8faba192451478c318/resources/yn9s5044a73d475a5493aa22e5394f9bf54ca" width = 95%/> </div>
 
 ### 资料准备
 

@@ -36,9 +36,9 @@ hero:
     - theme: brand
       text: 劳动人事 (案例)
       link: /laodong/index1
-    - theme: alt
-      text: 个人笔记
-      link: /notes/misremembered
+    - theme: brand
+      text: 文书下载
+      link: /document/zcsqs
   image:
     src: /favicon.svg
     alt: 找工作防踩雷

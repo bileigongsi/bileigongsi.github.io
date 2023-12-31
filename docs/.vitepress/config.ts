@@ -182,8 +182,8 @@ const config = defineConfig({
           { text: "劳动仲裁怎么准备证据？", link: "/54/how-to-prepare-evidence" },
           { text: "劳动仲裁和劳动诉讼的攻略", link: "/996law/README" },
           { text: "劳动仲裁申请书的写法", link: "/996law/README1" },
-          { text: "劳动仲裁申请书 下载", link: "/996law/example" },
-          { text: "被迫解除劳动关系通知函", link: "/996law/example2" },
+          { text: "劳动仲裁申请书 下载", link: "/document/zcsqs" },
+          { text: "被迫解除劳动关系通知函", link: "/document/bpjcldgx" },
           { text: "小孙的案例", link: "/996law/case/mrsun" },
           { text: "周先生自述仲裁经历", link: "/996law/case/selfreport" },
         ],
@@ -208,12 +208,14 @@ const config = defineConfig({
       
       //other
       {
-        text: "个人笔记",
+        text: "文书下载",
 		collapsed: true,
         items: [
-	  { text: "错题本 模板", link: "/notes/misremembered" },
-          { text: "计算", link: "/notes/cal" },
-          { text: "逻辑推理", link: "/notes/logic" },
+          { text: "劳动仲裁申请书", link: "/document/zcsqs" },
+          { text: "被迫解除劳动关系通知函", link: "/document/bpjcldgx" },
+	  	  { text: "错题本 模板", link: "/document/misremembered" },
+          { text: "计算", link: "/document/cal" },
+          { text: "逻辑推理", link: "/document/logic" },
         ],
       },
       
