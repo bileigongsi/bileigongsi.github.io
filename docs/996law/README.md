@@ -141,8 +141,6 @@ lastUpdated: false
 
 <div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s5efb06b3f0c1c4a8faba192451478c318/resources/yn9s518cfd28f29fe4dd493146188e3aeecc3" width = 95%/> </div>
 
-<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s5efb06b3f0c1c4a8faba192451478c318/resources/yn9s5044a73d475a5493aa22e5394f9bf54ca" width = 95%/> </div>
-
 ### 资料准备
 
 &emsp;&emsp;申请人申请仲裁应当提交书面仲裁申请、证据材料，并按照被申请人人数提交副本，以及双方的身份信息材料（身份证复印件、营业信息材料等）、证人出庭申请书和证人信息材料等 。
@@ -225,3 +223,7 @@ lastUpdated: false
 ::: info 重点推荐阅读
 如果有不懂的地方查阅《劳动法学习实操手册 2023 第2版》<span style="background:rgba(255, 183, 139, 0.55)"> 第三章 劳动争议法律程序</span>（打算去劳动仲裁必看）
 :::
+
+---
+
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s5efb06b3f0c1c4a8faba192451478c318/resources/yn9s5044a73d475a5493aa22e5394f9bf54ca" width = 95%/> </div>
