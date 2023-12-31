@@ -7,7 +7,7 @@ aside: false
 ---
 # 福州公司避雷详解
 
-## 福州劳动人事争议仲裁委员会
+## 福州劳动人事争议仲裁委员会 <Badge type="tip">闽A</Badge>
 
 |提问 <img width=400/> |互助答复 <img width=500/> |
 |---|---|

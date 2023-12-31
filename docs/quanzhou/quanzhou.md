@@ -3,8 +3,10 @@
 layout: doc
 editLink: false
 aside: false
+lastUpdated: false
 
 ---
+
 # 泉州公司避雷详解
 
 [[toc]]

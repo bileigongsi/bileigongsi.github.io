@@ -3,6 +3,7 @@
 layout: doc
 editLink: false
 aside: false
+lastUpdated: false
 
 ---
 
@@ -10,7 +11,7 @@ aside: false
 
 [[toc]]
 
-## 厦门劳动人事争议仲裁委员会
+## 厦门劳动人事争议仲裁委员会 <Badge type="tip">闽D</Badge>
 
 |提问 <img width=400/> |互助答复 <img width=500/> |
 |---|---|
