@@ -177,6 +177,7 @@ const config = defineConfig({
         collapsed: false,
         items: [
           { text: "福州、莆田、厦门仲裁委地址及联系电话", link: "/54/phone" },
+          { text: "关于确认劳动关系的常见法律问题", link: "/54/labor-relationship" },
           { text: "入职公司不签劳动合同怎么办?", link: "/54/2022-06-15" },
           { text: "稳稳的双倍工资，但是公司找我签合同咋办？", link: "/54/2023-02-01" },
           { text: "劳动仲裁怎么准备证据？", link: "/54/how-to-prepare-evidence" },
