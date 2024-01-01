@@ -12,7 +12,7 @@ lastUpdated: false
 [[toc]]
 
 ::: tip 提示
-劳动维权相关查看《劳动仲裁和劳动诉讼攻略》和《劳动法学习实操手册》板块。
+劳动仲裁、维权相关教程查看[《劳动仲裁和劳动诉讼攻略》](/996law/README) 和 [《劳动法学习实操手册》](/manual/manual3)板块。
 :::
 
 ## 泉州公司避雷详解 <Badge type="tip">闽C</Badge>
