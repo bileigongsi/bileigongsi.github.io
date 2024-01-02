@@ -37,7 +37,7 @@ hero:
       text: 劳动人事 (案例)
       link: /laodong/index1
     - theme: brand
-      text: 文书下载
+      text: 仲裁文书模版
       link: /document/zcsqs
   image:
     src: /favicon.svg
