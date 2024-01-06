@@ -189,6 +189,7 @@ const config = defineConfig({
           { text: "劳动仲裁申请书 下载", link: "/document/zcsqs" },
           { text: "被迫解除劳动关系通知函", link: "/document/bpjcldgx" },
           { text: "劳动仲裁出庭你需要注意这些", link: "/54/2021-08-23" },
+          { text: "举报社保基金违法违规，还有奖励拿？", link: "/54/2023-03-13" },
           { text: "小孙的仲裁经历", link: "/996law/case/mrsun" },
           { text: "周先生自述仲裁经历", link: "/996law/case/selfreport" },
         ],
