@@ -55,6 +55,6 @@ lastUpdated: false
 
  &emsp;&emsp;农民轮换工系特定历史条件下形成的用工制度，不能依据现行劳动法律制度来调整和评价历史遗留的用工关系。而应根据1984年国务院颁布的《矿山企业实行农民轮换工制度试行条例》、1991年颁布的《全民所有制企业招用农民合同制工人的规定》来认定。对农民轮换工的身份性质认定应遵照当时的相关政策予以解决，在此期间形成的劳动争议，不属于人民法院审理劳动争议案件的受案范围。
 
-<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s5a66928b5cf65438d969e2120caee2ce6/resources/yn9s5a9872865061a4826b2daa5381e7a67e7" width = 75%/> </div>
+<div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s5a66928b5cf65438d969e2120caee2ce6/resources/yn9s5a9872865061a4826b2daa5381e7a67e7" width = 55%/> </div>
 
 <p align="right">作者：朱丽华<br>济南市莱芜区法院民二庭副庭长、一级法官</p>

@@ -126,7 +126,7 @@ lastUpdated: false
 &emsp;&emsp;劳动者去申请劳动仲裁的时候，当然需要明确要告的是谁，也就是用人单位的信息。那么这就需要交企业信息的材料，以及它的征信码，很多劳动者就不知道在哪里查了。那么接下来就为大家介绍一个劳动仲裁委肯定会承认的查询方法。
 
 ### 1、查询企业信息
-&emsp;&emsp;首先使用搜索引擎搜索“信用中国”，或在浏览器地址栏内输入“[https://www.creditchina.gov.cn/](https://www.creditchina.gov.cn)” ，打开信用中国网站。在网站顶部搜索栏内输入你想要查询的企业名称，点击“查询”。
+&emsp;&emsp;首先使用搜索引擎搜索“信用中国”，或在浏览器地址栏内输入“[https://www.creditchina.gov.cn](https://www.creditchina.gov.cn)” ，打开信用中国网站。在网站顶部搜索栏内输入你想要查询的企业名称，点击“查询”。
 
 <div align=center> <img src="https://notebook.zohopublic.com.cn/api/v1/public/notecards/yn9s5f89b9748f87a46959c3d2c74fb7b0a9a/resources/yn9s5ad03370fd81f4cc2a082c3364b8087ac" width = 90%/> </div>
 
