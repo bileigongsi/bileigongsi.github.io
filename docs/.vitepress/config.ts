@@ -166,8 +166,10 @@ const config = defineConfig({
         text: "劳动法学习实操手册(仲裁必看)",
         collapsed: false,
         items: [
-          //{ text: "第三章 劳动争议法律程序（仲裁必看）", link: "/manual/manual3" },
-          { text: "第三章 劳动争议法律程序（仲裁）", link: "/manual/manual3" },
+          //{ text: "第二章 确定劳动关系及二倍工资争议", link: "/manual/manual2" },
+          { text: "第三章 劳动争议法律程序(仲裁必看)", link: "/manual/manual3" },
+          { text: "第四章 确定劳动关系及二倍工资争议", link: "/manual/manual4" },
+          //{ text: "第五章 确定劳动关系及二倍工资争议", link: "/manual/manual5" },
         ],
       },
       
