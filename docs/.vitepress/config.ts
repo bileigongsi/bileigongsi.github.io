@@ -32,8 +32,8 @@ const config = defineConfig({
 		lineNumbers: true,
 		container: {
 			tipLabel: '小提示',
-			warningLabel: '警告',
-			dangerLabel: '危险',
+			warningLabel: '注意',
+			dangerLabel: '警告',
 			infoLabel: '信息',
 			detailsLabel: '详情内容',
 		},
@@ -154,7 +154,7 @@ const config = defineConfig({
       //避雷公司详解
       {
         text: "公司避雷详解",link: "/detail",
-        collapsed: true,
+        //collapsed: true,
       },
       
       //劳动法学习实操手册
