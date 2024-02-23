@@ -22,7 +22,7 @@ hero:
       text: 厦门公司避雷 (闽D)
       link: /xiameng/blacklist0
     - theme: alt
-      text: 漳州公司避雷 (闽E)
+      text: 漳州公司避雷 (待更)
       link: /zhangzhou/blacklist1
     - theme: brand
       text: 公司避雷详解 (问答)
@@ -42,6 +42,7 @@ hero:
   image:
     src: /favicon.svg
     alt: 找工作防踩雷
+  tagline: 公告：由于维护该网页需要消耗本人业余时间，且最近两个月并为得到正向反馈，故该网页更新至2024年12月31日，也就是说2025年开始该网页将迈向互联网坟墓。
 
 ---
 <style>
