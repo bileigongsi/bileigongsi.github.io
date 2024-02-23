@@ -110,14 +110,8 @@ const config = defineConfig({
       },
   
   //莆田公司黑榜
-      {
-        text: "莆田公司黑榜",
-        collapsed: true,
-        items: [
-          { text: "莆田公司黑榜-1", link: "/putian/blacklist1" },
-          //{ text: "莆田公司黑榜-2 (待更新)", link: "/putian/blacklist2" },
-        ],
-      },
+      //{
+        text: "莆田公司黑榜", link: "/putian/blacklist1",
   
   //泉州公司黑榜
       {
@@ -152,10 +146,10 @@ const config = defineConfig({
       },
       
       //避雷公司详解
-      {
-        text: "公司避雷详解",link: "/detail",
+      //{
+        text: "公司避雷详解", link: "/detail",
         //collapsed: true,
-      },
+      //},
       
       //劳动法学习实操手册
       {
