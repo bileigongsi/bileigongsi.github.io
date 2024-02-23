@@ -148,28 +148,23 @@ const config = defineConfig({
         collapsed: true,
         items: [
           { text: "漳州公司黑榜-1", link: "/zhangzhou/blacklist1" },
-          //{ text: "漳州公司黑榜-2", link: "/zhangzhou/blacklist1" },
         ],
       },
       
       //避雷公司详解
       {
-        text: "公司避雷详解",
+        text: "公司避雷详解",link: "/detail",
         collapsed: true,
-        items: [
-          { text: "公司避雷详解", link: "/detail" },
-        ],
       },
       
       //劳动法学习实操手册
       {
         text: "劳动法学习实操手册(仲裁必看)",
-        collapsed: false,
+        collapsed: true,
         items: [
-          //{ text: "第二章 确定劳动关系及二倍工资争议", link: "/manual/manual2" },
+          { text: "《劳动法学习实操手册》", link: "https://www.kdocs.cn/l/ciTRryeB4vWq" },
           { text: "第三章 劳动争议法律程序(仲裁必看)", link: "/manual/manual3" },
           { text: "第四章 确定劳动关系及二倍工资争议", link: "/manual/manual4" },
-          //{ text: "第五章 确定劳动关系及二倍工资争议", link: "/manual/manual5" },
         ],
       },
       

@@ -29,7 +29,7 @@ hero:
       link: /detail
     - theme: brand
       text: 劳动法学习实操手册 (必看)
-      link: /manual/manual3
+      link: https://www.kdocs.cn/l/ciTRryeB4vWq
     - theme: brand
       text: 劳动仲裁和劳动诉讼攻略
       link: /996law/README
