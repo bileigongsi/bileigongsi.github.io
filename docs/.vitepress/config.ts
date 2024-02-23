@@ -97,6 +97,8 @@ const config = defineConfig({
 
 	//侧边栏代码开始
   	sidebar: [
+  	
+  	 { text: "公告", link: "/notice" },
   
   //福州公司黑榜
       {
@@ -105,13 +107,11 @@ const config = defineConfig({
         items: [
           { text: "福州公司黑榜-0", link: "/fuzhou/blacklist0" },
           { text: "福州公司黑榜-1", link: "/fuzhou/blacklist1" },
-          //{ text: "福州公司黑榜-2 (待更新)", link: "/fuzhou/blacklist2" },
         ],
       },
   
   //莆田公司黑榜
-      //{
-        text: "莆田公司黑榜", link: "/putian/blacklist1",
+      { text: "莆田公司黑榜", link: "/putian/blacklist1" },
   
   //泉州公司黑榜
       {
@@ -146,10 +146,7 @@ const config = defineConfig({
       },
       
       //避雷公司详解
-      //{
-        text: "公司避雷详解", link: "/detail",
-        //collapsed: true,
-      //},
+      { text: "公司避雷详解", link: "/detail" },
       
       //劳动法学习实操手册
       {
