@@ -21,15 +21,12 @@ hero:
     - theme: brand
       text: 厦门公司避雷 (闽D)
       link: /xiameng/blacklist0
-    - theme: alt
-      text: 漳州公司避雷 (待更)
-      link: /zhangzhou/blacklist1
     - theme: brand
       text: 公司避雷详解 (问答)
       link: /detail
     - theme: brand
       text: 劳动法学习实操手册 (必看)
-      link: https://www.kdocs.cn/l/ciTRryeB4vWq
+      link: https://kdocs.cn/l/caNjbacnJr3U
     - theme: brand
       text: 劳动仲裁和劳动诉讼攻略
       link: /996law/README

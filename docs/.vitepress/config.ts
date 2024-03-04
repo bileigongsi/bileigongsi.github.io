@@ -98,7 +98,7 @@ const config = defineConfig({
 	//侧边栏代码开始
   	sidebar: [
   	
-  	 { text: "公告", link: "/notice" },
+  	 { text: "公告🪧", link: "/notice" },
   
   //福州公司黑榜
       {
@@ -111,7 +111,13 @@ const config = defineConfig({
       },
   
   //莆田公司黑榜
-      { text: "莆田公司黑榜", link: "/putian/blacklist1" },
+      {
+        text: "莆田公司黑榜",
+        collapsed: true,
+        items: [
+          { text: "泉州公司黑榜-1", link: "/putian/blacklist1" },
+        ],
+      },
   
   //泉州公司黑榜
       {
@@ -136,24 +142,21 @@ const config = defineConfig({
         ],
       },
       
-      //漳州公司黑榜
+      //避雷公司详解
       {
-        text: "漳州公司黑榜",
+        text: "公司避雷详解",
         collapsed: true,
         items: [
-          { text: "漳州公司黑榜-1", link: "/zhangzhou/blacklist1" },
+          { text: "公司避雷详解", link: "/detail" },
         ],
       },
-      
-      //避雷公司详解
-      { text: "公司避雷详解", link: "/detail" },
       
       //劳动法学习实操手册
       {
         text: "劳动法学习实操手册(仲裁必看)",
         collapsed: true,
         items: [
-          { text: "《劳动法学习实操手册》", link: "https://www.kdocs.cn/l/ciTRryeB4vWq" },
+          { text: "《劳动法学习实操手册》", link: "https://kdocs.cn/l/caNjbacnJr3U" },
           { text: "第三章 劳动争议法律程序(仲裁必看)", link: "/manual/manual3" },
           { text: "第四章 确定劳动关系及二倍工资争议", link: "/manual/manual4" },
         ],
@@ -162,7 +165,7 @@ const config = defineConfig({
       //劳动仲裁和劳动诉讼的攻略
       {
         text: "劳动仲裁和劳动诉讼攻略",
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: "福州、莆田、厦门仲裁委地址及联系电话", link: "/54/phone" },
           { text: "一张图弄明白劳动关系与劳务关系的区别", link: "/54/2023-02-24" },
@@ -186,7 +189,7 @@ const config = defineConfig({
       //劳动人事
       {
         text: "劳动人事 (案例)",
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: "1、处理加班费争议，如何分配举证责任", link: "/laodong/index1" },
           { text: "2、加班费的仲裁时效应当如何认定", link: "/laodong/index2" },
