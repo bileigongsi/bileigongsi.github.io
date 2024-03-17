@@ -218,10 +218,10 @@ lastUpdated: false
 ## 附录 2：
 国家企业信息信用信息系统（工商登记注册基本信息） 下载地址：[https://www.gsxt.gov.cn/](https://www.gsxt.gov.cn)
 
-劳动法学习实操手册 2023 第2版 [PDF电子书下载](https://www.kdocs.cn/l/ciTRryeB4vWq)
+劳动法学习实操手册 2024 第3版 [PDF电子书下载](https://www.kdocs.cn/l/caNjbacnJr3U)
 
 ::: info 重点推荐阅读
-如果有不懂的地方查阅《劳动法学习实操手册 2023 第2版》<span style="background:rgba(255, 183, 139, 0.55)"> 第三章 劳动争议法律程序</span>（打算去劳动仲裁必看）
+如果有不懂的地方查阅《劳动法学习实操手册 2024 第3版》<span style="background:rgba(255, 183, 139, 0.55)"> 第三章 劳动争议法律程序</span>（打算去劳动仲裁必看）
 :::
 
 ---

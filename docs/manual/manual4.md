@@ -9,6 +9,10 @@ lastUpdated: false
 
 # 确定劳动关系及二倍工资争议
 
+::: warning
+本章内容还未插图，建议看原文：[https://www.kdocs.cn/l/ciTRryeB4vWq](https://www.kdocs.cn/l/ciTRryeB4vWq)
+:::
+
 [[toc]]
 
 <br><br>

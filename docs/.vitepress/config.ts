@@ -115,7 +115,7 @@ const config = defineConfig({
         text: "莆田公司黑榜",
         collapsed: true,
         items: [
-          { text: "泉州公司黑榜-1", link: "/putian/blacklist1" },
+          { text: "莆田公司黑榜-1", link: "/putian/blacklist1" },
         ],
       },
   
