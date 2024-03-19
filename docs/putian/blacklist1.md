@@ -6,7 +6,7 @@ aside: false
 
 ---
 
-# 莆田公司黑榜 - 1
+# 莆田公司黑榜
 
 > 来源：  [莆田避雷公司详解——莆田防踩雷](https://docs.qq.com/sheet/DT0dWcFdRcnJXdG92?tab=BB08J2)
 
