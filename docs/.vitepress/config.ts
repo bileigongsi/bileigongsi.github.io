@@ -86,8 +86,8 @@ const config = defineConfig({
       {
         text: "避雷公司在线表格",
         items: [
-          { text: "福州避雷公司表格", link: "https://docs.qq.com/sheet/DZUpIRkdpcXdmYmND?tab=BB08J2" },
-          { text: "福州避雷公司表格(更新中)", link: "https://docs.qq.com/sheet/DT3ViRmpKU3Vva3hX" },
+          { text: "福州避雷公司表格(停更)", link: "https://docs.qq.com/sheet/DZUpIRkdpcXdmYmND?tab=BB08J2" },
+          { text: "福州避雷公司表格(过期)", link: "https://docs.qq.com/sheet/DT3ViRmpKU3Vva3hX" },
           { text: "莆田避雷公司表格(更新中)", link: "https://docs.qq.com/sheet/DT0dWcFdRcnJXdG92?tab=BB08J2" },
           { text: "大泉州防踩雷表格(更新中)", link: "https://docs.qq.com/sheet/DY2RHc0hoT2xhaHJJ?tab=apero3" },
           { text: "厦门避雷公司文档(金山文档)", link: "https://kdocs.cn/l/cgyiX16CVh7L" },
