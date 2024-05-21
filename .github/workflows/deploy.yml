@@ -1,4 +1,4 @@
-# 用于构建 VitePress 站点并将其部署到 GitHub Pages 的示例工作流
+# 用于构建 VitePress站点并将其部署到 GitHub Pages 的示例工作流
 #
 name: Deploy VitePress site to Pages
 
